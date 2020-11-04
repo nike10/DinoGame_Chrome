@@ -3,7 +3,7 @@
 import pyautogui
 import time
 import keyboard
-import win32api, win32con
+
          
 x=801
 y=245
